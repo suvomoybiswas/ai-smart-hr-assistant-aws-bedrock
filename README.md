@@ -34,6 +34,24 @@ The assistant helps employees:
 ## Repository Structure
 
 project folders explanation
+ai-smart-hr-assistant-aws-bedrock
+│
+├── README.md
+├── architecture
+│   └── architecture-diagram.png
+│
+├── screenshots
+│
+├── knowledge-base-data
+│   └── hr-benefits-policy.pdf
+│
+├── prompts
+│   └── agent-instructions.txt
+│
+└── docs
+    ├── project-overview.md
+    ├── setup-guide.md
+    └── testing-guide.md
 
 ## Setup Instructions
 
@@ -49,14 +67,6 @@ Step 9 – Test agent
 
 ## Screenshots
 
-Add your screenshots
-
-## Example Questions
-
-What health benefits are available?  
-How do I claim medical expenses?  
-Submit a dental claim of $200.
-
 ## Future Improvements
 
 Add authentication  
@@ -65,4 +75,4 @@ Add more HR automation
 
 ## Author
 
-Your Name
+Suvo Biswas
